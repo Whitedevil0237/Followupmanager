@@ -1,0 +1,2 @@
+[functions.generate-followup]
+verify_jwt = true
